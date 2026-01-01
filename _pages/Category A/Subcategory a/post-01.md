@@ -1,6 +1,6 @@
 ---
-title: "Example Post: no thumbnail image"
-date: "2023-12-01"
+title: "김김민님님ㄴㅇ민임닝"
+date: "2026-01-01"
 ---
 
 # Follow the guidance
